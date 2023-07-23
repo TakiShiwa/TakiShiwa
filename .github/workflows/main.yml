@@ -49,9 +49,6 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
           plugin_topics_sort: stars
    
    
